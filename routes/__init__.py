@@ -1,0 +1,1 @@
+from .studentRouter import router as RouterStudent
